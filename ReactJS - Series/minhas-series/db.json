@@ -1,0 +1,97 @@
+{
+  "series": [
+    {
+      "id": 1,
+      "name": "How I met your mother",
+      "status": "watched",
+      "genre": "Comédia",
+      "comments": "Muito bom"
+    },
+    {
+      "id": 2,
+      "name": "Friends",
+      "status": "watching",
+      "genre": "Comédia",
+      "current": {
+        "episode": "01",
+        "season": "09"
+      },
+      "comments": "Bom para descontrair"
+    },
+    {
+      "id": 3,
+      "name": "Breaking Bad",
+      "status": "watched",
+      "genre": "Drama",
+      "comments": "Say My Name - melhor cena"
+    },
+    {
+      "id": 4,
+      "name": "Better Call Saul",
+      "status": "toWatch",
+      "genre": "Drama",
+      "comments": "Galera fala bem"
+    },
+    {
+      "name": "CLeber",
+      "status": "watching",
+      "genre": "Drama",
+      "comments": " Top",
+      "id": 5
+    },
+    {
+      "name": "CLeber2",
+      "status": "toWatch",
+      "genre": "Comédia",
+      "comments": "2 mens an half",
+      "id": 6
+    },
+    {
+      "name": "",
+      "status": "watched",
+      "genre": "Comédia",
+      "comments": " ",
+      "id": 10
+    },
+    {
+      "name": "teste",
+      "status": "watched",
+      "genre": "Comédia",
+      "comments": " teste",
+      "id": 11
+    },
+    {
+      "name": "teste",
+      "status": "watched",
+      "genre": "Comédia",
+      "comments": " teste",
+      "id": 12
+    },
+    {
+      "name": "teste",
+      "status": "watched",
+      "genre": "Comédia",
+      "comments": " teste",
+      "id": 13
+    },
+    {
+      "name": "bbb",
+      "status": "toWatch",
+      "genre": "Drama",
+      "comments": " bbb",
+      "id": 19
+    },
+    {
+      "name": "bbb",
+      "status": "toWatch",
+      "genre": "Drama",
+      "comments": " bbb",
+      "id": 20
+    }
+  ],
+  "genres": [
+    "Comédia",
+    "Drama",
+    "Ação"
+  ]
+}
